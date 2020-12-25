@@ -1,7 +1,7 @@
 go-beforeeach
 =============
 
-Go equivalent of `@BeforeEach` and `AfterEach` in Java.
+Go equivalent of `@BeforeEach` and `@AfterEach` in Java.
 Check example for usage.
 
 Install
