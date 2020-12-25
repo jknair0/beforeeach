@@ -13,6 +13,11 @@ go get -u github.com/jknair0/beforeeach
 Examples
 ========
 ```go
+import (
+    beforeEach "github.com/jknair0/beforeeach"
+    "testing"
+)
+
 var it = beforeEach.Create(setUp, tearDown)
 
 func setUp() {
